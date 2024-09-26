@@ -1,3 +1,4 @@
 rootProject.name = 'picpay-clean'
 include 'core'
+include 'usecase'
 
